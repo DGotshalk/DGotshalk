@@ -1,16 +1,24 @@
-## Hi there 👋
+# Thanks for checking out my Github profile
 
-<!--
-**DGotshalk/DGotshalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Social Media
+<div id="badges">
+  <a href="https://www.linkedin.com/in/drew-gotshalk">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## About Me
+* Systems Administrator, Linux enthusiast, aspiring Cloud Security Engineer
+* Currently working as a Systems Administrator with Google Cloud Platform
+* Write BASH scripts to better leverage the Google Cloud Platform
+* Occasionally solve the odd Kattis problem in my spare time
+* Best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-drew-gotshall-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew-gotshalk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+* [LPIC 1 certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000472624/wzuc7ssdxc)
+* [Google Cloud Associate Cloud Engineer certification](https://google.accredible.com/8795f562-b7d3-42a0-9105-ec8895708831?key=aa879ea323d871c61b3a93e507749b00f086331f63812f3306bb85e9047a2865)
+
+## My Statistics
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgotshakl&langs_count=8&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dgotshalk&theme=merko)](https://git.io/streak-stats) 
