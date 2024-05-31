@@ -8,10 +8,9 @@
 </div>
 
 ## About Me
-* Systems Administrator, Linux enthusiast, aspiring Cloud Security Engineer
+* Systems Administrator, Linux enthusiast, aspiring DevOps Engineer
 * Currently working as a Systems Administrator with Google Cloud Platform
-* Write BASH scripts to better leverage the Google Cloud Platform
-* Occasionally solve the odd Kattis problem in my spare time
+* Write Rust and Python in my spare time
 * Best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dgotshalk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drew-gotshalk)
 
 ## Certifications
